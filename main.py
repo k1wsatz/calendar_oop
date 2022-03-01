@@ -11,9 +11,13 @@ def main():
     m = Meeting('piwko', datetime.strptime('01-03-2022 17:15', '%d-%m-%Y %H:%M'), 60, 'better world', 'mikolaj',
                 ['bodzio', 'seba', 'tomek'], 'arctovsky')
     e.start_time = datetime.strptime('01-03-2022 17:50', '%d-%m-%Y %H:%M')
-    print(repr(e))
+    print(repr(w))
     # planner = Planner([])
     # print(repr(planner))
+    print(w.duration)
+    print(w.start_time)
+    print(w.end_of_meeting())
+    print(w.end_of_meeting() - w.start_time)
 
 
 if __name__ == '__main__':

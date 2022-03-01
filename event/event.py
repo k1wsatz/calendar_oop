@@ -10,6 +10,9 @@ class Event:
         self.owner = owner
         self.participants = participants
 
+    def end_of_meeting(self):
+        return self.start_time + timedelta(minutes=self.duration)
+
     @property
     def name(self):
         return self._name
