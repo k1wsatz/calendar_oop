@@ -1,0 +1,500 @@
+janusz, 2024-04-28 14:31:00, 294, warszawa, janusz, roman
+ala, 2023-12-15 10:51:00, 466, warszawa, ola, roman
+roman, 2024-08-19 09:29:00, 83, gdynia, ola, ola
+ala, 2024-10-22 07:57:00, 290, gdynia, ola, ola
+roman, 2024-04-04 09:48:00, 427, gdynia, ola, roman
+roman, 2024-07-01 18:28:00, 54, gdynia, roman, 
+roman, 2024-09-24 12:35:00, 351, gdynia, ola, ala
+roman, 2024-10-11 16:25:00, 352, gdynia, ala, roman, janusz
+ala, 2024-08-14 11:10:00, 309, warszawa, janusz, 
+roman, 2023-09-08 13:43:00, 127, gdynia, ala, 
+roman, 2024-07-12 09:43:00, 581, warszawa, ola, janusz, ala
+janusz, 2024-08-27 15:53:00, 587, warszawa, roman, 
+ala, 2023-07-04 17:44:00, 81, gdynia, ala, 
+ola, 2022-09-11 11:03:00, 168, gdynia, janusz, ola, roman, janusz
+ola, 2024-09-23 08:33:00, 374, lesiow, janusz, janusz
+janusz, 2024-04-08 18:49:00, 192, gdynia, janusz, janusz
+ola, 2023-07-24 09:13:00, 210, warszawa, janusz, 
+janusz, 2022-05-20 16:59:00, 139, gdynia, ala, ola, janusz
+roman, 2024-10-13 15:50:00, 107, warszawa, ola, janusz, janusz, roman
+ola, 2024-04-13 13:15:00, 515, warszawa, ola, ala, ala, janusz
+roman, 2022-12-17 15:47:00, 25, lesiow, ola, 
+roman, 2024-09-16 07:39:00, 277, warszawa, ala, janusz, roman, roman
+ala, 2023-06-05 11:26:00, 313, warszawa, janusz, janusz, janusz
+ala, 2024-10-22 17:30:00, 390, lesiow, ala, ola
+janusz, 2023-09-02 10:51:00, 585, gdynia, roman, 
+roman, 2024-09-06 07:36:00, 245, gdynia, ola, janusz
+ala, 2023-10-11 16:46:00, 255, warszawa, ala, 
+ola, 2023-11-25 12:23:00, 590, warszawa, ala, janusz, janusz
+janusz, 2024-12-03 14:19:00, 263, lesiow, janusz, ala, ola
+ola, 2023-05-13 11:07:00, 86, gdynia, janusz, 
+ala, 2024-09-19 08:53:00, 175, gdynia, ala, 
+janusz, 2022-09-22 15:05:00, 98, gdynia, janusz, 
+janusz, 2023-09-08 16:20:00, 216, gdynia, roman, ola, ola
+ala, 2023-05-17 08:42:00, 54, gdynia, ola, janusz, janusz
+ala, 2023-08-02 08:23:00, 232, warszawa, roman, janusz
+janusz, 2024-07-15 10:18:00, 317, gdynia, roman, roman
+roman, 2024-11-16 08:45:00, 395, lesiow, janusz, ala, ala, roman
+ola, 2024-04-03 09:08:00, 67, warszawa, ola, 
+ola, 2023-08-02 08:29:00, 212, warszawa, ola, roman
+ola, 2022-09-22 14:19:00, 171, lesiow, ala, janusz, roman
+roman, 2022-05-27 11:26:00, 90, gdynia, ola, roman
+janusz, 2022-11-03 16:38:00, 488, lesiow, janusz, ala, ola
+roman, 2023-06-09 10:08:00, 26, lesiow, janusz, 
+roman, 2024-06-17 18:42:00, 54, warszawa, ola, 
+ala, 2024-11-25 15:33:00, 286, gdynia, roman, roman, ola
+janusz, 2024-09-23 15:27:00, 254, lesiow, roman, janusz
+ola, 2022-04-04 17:15:00, 201, lesiow, janusz, ola
+roman, 2022-10-08 15:44:00, 155, warszawa, ola, janusz
+janusz, 2022-10-12 07:22:00, 341, lesiow, janusz, ola, roman
+ala, 2024-10-16 10:13:00, 517, lesiow, janusz, janusz, roman, ala
+ala, 2022-10-06 14:24:00, 308, warszawa, roman, 
+janusz, 2022-08-04 16:24:00, 162, lesiow, roman, 
+roman, 2023-12-05 10:19:00, 511, warszawa, roman, ala, ola
+roman, 2024-06-08 12:56:00, 371, warszawa, roman, janusz, janusz, janusz
+ala, 2023-04-24 17:11:00, 352, lesiow, janusz, 
+janusz, 2023-08-05 15:14:00, 134, gdynia, roman, janusz, janusz, janusz
+janusz, 2023-11-12 16:39:00, 223, warszawa, roman, ola, roman, ala
+ola, 2023-06-24 18:06:00, 542, lesiow, ala, roman, roman
+ala, 2022-10-27 14:58:00, 424, gdynia, ala, 
+janusz, 2024-10-01 13:09:00, 146, warszawa, ola, ola, roman
+ola, 2024-08-03 13:25:00, 371, lesiow, janusz, roman, roman, ala
+janusz, 2023-07-03 18:12:00, 126, warszawa, roman, roman, ala, ola
+ala, 2024-11-04 10:19:00, 97, lesiow, ala, ola, janusz
+roman, 2022-04-26 16:47:00, 234, lesiow, ala, janusz
+janusz, 2023-10-24 18:18:00, 177, gdynia, roman, janusz
+ola, 2024-10-12 16:33:00, 421, warszawa, roman, roman, roman, ola
+ala, 2023-07-03 18:45:00, 551, lesiow, janusz, janusz
+roman, 2023-09-26 07:23:00, 341, gdynia, roman, 
+ala, 2024-10-24 11:07:00, 252, lesiow, roman, 
+ola, 2024-11-26 12:04:00, 120, gdynia, ola, 
+ola, 2022-07-27 15:37:00, 65, lesiow, roman, ala, janusz, roman
+janusz, 2024-05-21 19:35:00, 296, warszawa, roman, roman, ala
+ala, 2022-10-02 13:57:00, 89, lesiow, ola, 
+roman, 2022-06-02 18:59:00, 492, lesiow, roman, roman
+ala, 2023-07-02 11:10:00, 53, gdynia, ola, janusz
+janusz, 2023-05-01 11:03:00, 46, warszawa, roman, ola, roman
+ala, 2022-05-12 18:33:00, 494, lesiow, ala, ala, ola, janusz
+janusz, 2023-10-17 09:15:00, 39, warszawa, janusz, ola, ola, roman
+ola, 2024-09-05 14:57:00, 482, lesiow, ola, janusz
+roman, 2023-12-16 08:17:00, 445, gdynia, ala, roman, janusz
+ala, 2022-10-22 11:11:00, 355, gdynia, ola, 
+janusz, 2023-04-19 12:32:00, 16, warszawa, janusz, 
+ola, 2022-05-07 18:37:00, 454, lesiow, ala, 
+ola, 2022-08-19 15:08:00, 339, lesiow, ala, ala
+roman, 2022-09-19 09:34:00, 559, warszawa, janusz, ola
+janusz, 2022-12-02 18:48:00, 594, gdynia, ala, 
+roman, 2023-05-14 12:01:00, 154, gdynia, roman, ola, ala, roman
+ala, 2024-08-18 15:15:00, 424, lesiow, roman, ola
+roman, 2023-06-05 14:19:00, 262, warszawa, janusz, ola
+janusz, 2024-10-06 11:06:00, 243, gdynia, janusz, ola, roman, ala
+ola, 2024-10-20 10:05:00, 124, warszawa, ola, 
+ala, 2022-04-01 15:33:00, 273, lesiow, ola, 
+ala, 2024-10-05 14:54:00, 204, warszawa, roman, ola, ola, ala
+ala, 2022-06-08 09:53:00, 264, warszawa, ola, roman
+ala, 2024-07-09 18:48:00, 532, lesiow, roman, 
+ola, 2024-06-19 10:07:00, 125, lesiow, ola, ola
+ola, 2024-10-27 08:38:00, 64, warszawa, ola, 
+roman, 2022-10-17 07:12:00, 593, gdynia, janusz, janusz, janusz, ala
+janusz, 2022-05-22 09:52:00, 124, lesiow, ala, janusz, roman
+ala, 2022-11-24 08:47:00, 515, lesiow, janusz, janusz, roman, ola
+roman, 2022-12-10 10:44:00, 270, warszawa, ola, ola
+ala, 2023-05-07 17:35:00, 514, gdynia, ala, roman, ola, janusz
+roman, 2024-10-22 19:01:00, 456, lesiow, ola, ola, janusz
+roman, 2023-04-09 07:44:00, 254, lesiow, ala, roman, roman, roman
+roman, 2022-12-28 13:42:00, 77, gdynia, ala, janusz
+ola, 2023-11-13 10:55:00, 108, lesiow, ola, 
+ala, 2023-05-23 14:33:00, 25, gdynia, roman, 
+janusz, 2023-12-20 13:56:00, 296, warszawa, ola, ola, ola
+ola, 2022-04-20 16:49:00, 348, warszawa, ala, ola, roman, janusz
+janusz, 2024-10-16 07:55:00, 318, lesiow, ala, roman
+roman, 2022-05-15 13:20:00, 119, gdynia, janusz, ala, ola
+ala, 2023-11-08 16:15:00, 84, gdynia, ola, ala
+janusz, 2023-05-20 08:08:00, 6, gdynia, ola, ola
+ola, 2024-07-15 14:02:00, 526, lesiow, janusz, 
+janusz, 2024-06-23 15:16:00, 363, gdynia, ala, ala, janusz
+ola, 2023-06-28 08:12:00, 480, warszawa, janusz, 
+janusz, 2022-10-15 18:01:00, 49, lesiow, ala, roman
+janusz, 2024-05-12 09:29:00, 67, warszawa, ala, roman
+janusz, 2023-10-08 07:33:00, 564, warszawa, ala, janusz, ala
+roman, 2022-08-21 12:55:00, 133, gdynia, roman, janusz, ala, janusz
+ala, 2023-10-18 19:43:00, 380, lesiow, roman, janusz
+roman, 2022-09-14 11:25:00, 126, gdynia, janusz, ola, ola
+ola, 2024-08-10 16:37:00, 94, lesiow, janusz, 
+roman, 2022-10-23 19:39:00, 214, warszawa, ola, janusz
+ala, 2023-06-19 08:23:00, 356, lesiow, ala, ala
+janusz, 2024-11-24 08:19:00, 504, gdynia, ala, ola, janusz, roman
+janusz, 2022-06-17 16:03:00, 441, gdynia, ola, 
+ala, 2022-05-03 17:32:00, 591, lesiow, roman, 
+ala, 2023-06-26 13:26:00, 208, lesiow, roman, roman, roman
+janusz, 2024-12-19 08:32:00, 181, lesiow, janusz, 
+janusz, 2024-04-23 10:17:00, 222, lesiow, ola, janusz, ala, janusz
+ala, 2023-04-26 13:16:00, 151, warszawa, ala, ola
+roman, 2023-05-05 15:18:00, 306, warszawa, ola, 
+roman, 2022-09-19 17:31:00, 242, lesiow, janusz, roman
+janusz, 2024-04-04 13:20:00, 252, warszawa, janusz, ola
+ala, 2022-08-11 14:29:00, 143, warszawa, roman, janusz, roman, roman
+janusz, 2023-12-18 14:13:00, 197, lesiow, ala, janusz, ala, janusz
+roman, 2024-09-17 13:05:00, 123, lesiow, ola, janusz
+roman, 2022-06-28 15:14:00, 242, gdynia, janusz, 
+ola, 2022-10-25 17:42:00, 486, lesiow, roman, ala, ola, janusz
+janusz, 2024-10-15 10:21:00, 256, lesiow, roman, 
+roman, 2024-09-13 13:50:00, 597, gdynia, ola, janusz, janusz, roman
+roman, 2023-12-12 18:38:00, 519, warszawa, ola, janusz, roman, roman
+ola, 2023-07-11 10:55:00, 496, gdynia, ola, ola
+janusz, 2022-10-27 17:49:00, 390, lesiow, roman, 
+janusz, 2023-12-01 13:20:00, 266, gdynia, janusz, janusz, janusz, ala
+janusz, 2022-11-14 11:55:00, 506, warszawa, janusz, 
+ola, 2023-09-03 09:38:00, 70, lesiow, ala, ola, janusz, ola
+roman, 2022-09-09 10:16:00, 489, gdynia, janusz, janusz, roman, ala
+janusz, 2024-12-03 18:12:00, 297, lesiow, ala, janusz, janusz
+ala, 2022-12-17 14:39:00, 28, warszawa, ala, janusz
+janusz, 2024-06-18 12:00:00, 199, gdynia, roman, 
+ala, 2023-04-24 14:02:00, 95, warszawa, janusz, 
+ola, 2024-12-11 19:10:00, 68, gdynia, ola, janusz
+ola, 2024-05-28 10:33:00, 318, gdynia, roman, roman
+roman, 2024-05-13 19:49:00, 571, lesiow, ola, 
+janusz, 2023-07-07 19:59:00, 178, gdynia, roman, ala
+janusz, 2024-06-05 12:19:00, 548, warszawa, ala, ola
+janusz, 2023-07-13 14:03:00, 14, warszawa, ala, 
+janusz, 2023-08-07 14:10:00, 509, warszawa, roman, ala, roman
+janusz, 2022-05-07 07:14:00, 113, warszawa, ola, 
+roman, 2024-07-08 09:20:00, 236, lesiow, roman, ala, ala
+roman, 2023-10-21 12:58:00, 176, lesiow, roman, 
+ala, 2023-11-03 14:12:00, 600, warszawa, ala, ala
+janusz, 2022-07-04 07:46:00, 21, warszawa, janusz, 
+ala, 2024-04-26 10:13:00, 372, warszawa, ola, janusz, roman
+roman, 2023-04-10 11:54:00, 234, gdynia, ala, ala, janusz
+ala, 2022-06-12 15:14:00, 135, gdynia, janusz, ala, ola
+roman, 2024-09-26 18:55:00, 384, lesiow, roman, ala, ola, janusz
+roman, 2022-06-18 07:14:00, 288, gdynia, janusz, ola
+janusz, 2022-06-03 07:46:00, 410, warszawa, ola, janusz, ola
+ola, 2022-06-15 11:06:00, 29, lesiow, roman, roman, janusz, ola
+ala, 2022-10-06 12:56:00, 235, lesiow, roman, ala
+janusz, 2023-04-19 09:59:00, 185, gdynia, janusz, 
+roman, 2023-10-14 11:21:00, 307, lesiow, ola, 
+ala, 2024-11-07 08:56:00, 245, warszawa, ola, roman
+ala, 2022-07-05 16:00:00, 132, warszawa, roman, ola, ala
+janusz, 2022-10-13 15:36:00, 124, warszawa, ola, ala, janusz, ala
+janusz, 2024-04-26 13:06:00, 285, lesiow, ala, roman, janusz
+roman, 2024-08-01 11:15:00, 453, warszawa, ala, 
+janusz, 2022-09-24 13:45:00, 27, lesiow, roman, 
+ola, 2023-07-26 15:35:00, 75, gdynia, ala, roman
+roman, 2023-08-04 10:46:00, 290, gdynia, roman, 
+janusz, 2022-06-10 09:28:00, 203, warszawa, ola, ala, ola
+ola, 2022-09-26 10:09:00, 45, warszawa, ala, janusz
+ola, 2024-10-07 14:19:00, 377, lesiow, roman, ola, ala
+ala, 2024-07-28 17:43:00, 12, lesiow, ola, roman, ola
+ola, 2022-07-11 16:24:00, 567, gdynia, roman, ala, janusz, ola
+roman, 2023-04-09 19:57:00, 250, gdynia, janusz, 
+ola, 2022-05-27 15:16:00, 314, gdynia, ala, ala, roman, roman
+janusz, 2024-05-17 16:02:00, 600, gdynia, ola, ala, janusz, roman
+ala, 2022-12-04 09:24:00, 499, gdynia, janusz, ala, janusz, janusz
+roman, 2024-06-04 18:52:00, 204, gdynia, ala, ola, roman, roman
+roman, 2023-04-18 10:45:00, 60, warszawa, ola, ala
+janusz, 2023-10-12 16:13:00, 495, warszawa, ola, 
+ala, 2024-10-19 17:41:00, 541, lesiow, ala, 
+roman, 2023-09-28 12:18:00, 97, lesiow, roman, ola, ola
+janusz, 2022-09-16 17:19:00, 38, warszawa, roman, ala, ola, roman
+roman, 2022-12-01 16:59:00, 13, gdynia, ala, 
+janusz, 2023-04-06 18:39:00, 438, gdynia, ala, roman, janusz, roman
+janusz, 2022-09-21 18:41:00, 363, warszawa, janusz, janusz, ola, ala
+janusz, 2024-12-27 15:55:00, 123, warszawa, roman, janusz, ola
+janusz, 2024-12-20 16:36:00, 215, lesiow, ola, janusz, ala
+janusz, 2023-11-14 12:47:00, 232, gdynia, roman, janusz, janusz
+ala, 2024-09-24 17:22:00, 104, lesiow, ala, 
+roman, 2022-10-14 14:59:00, 123, lesiow, janusz, janusz, roman
+roman, 2023-08-18 08:02:00, 337, lesiow, ola, ola
+ala, 2023-04-17 12:23:00, 533, warszawa, roman, roman
+janusz, 2022-12-20 13:48:00, 498, warszawa, ala, roman, ola
+janusz, 2022-07-26 17:59:00, 434, gdynia, janusz, janusz
+ola, 2022-09-02 17:15:00, 198, lesiow, ala, 
+ala, 2024-11-23 13:52:00, 263, warszawa, roman, janusz
+ola, 2022-07-21 13:28:00, 286, lesiow, janusz, ola, roman
+janusz, 2023-04-28 15:57:00, 162, lesiow, ala, janusz
+janusz, 2022-06-08 19:55:00, 571, gdynia, roman, roman, ala
+ala, 2023-11-13 13:42:00, 185, warszawa, janusz, roman, ala, ala
+janusz, 2023-07-20 17:12:00, 506, gdynia, ala, 
+roman, 2024-09-02 14:53:00, 425, warszawa, ola, 
+janusz, 2024-10-28 07:33:00, 208, gdynia, ola, ala, janusz
+ala, 2024-09-19 15:50:00, 423, gdynia, janusz, ala, ala, janusz
+ola, 2023-04-17 16:14:00, 584, gdynia, ola, roman, janusz, ola
+janusz, 2022-08-08 15:13:00, 384, lesiow, ala, ola, ola
+janusz, 2022-06-24 18:11:00, 45, gdynia, ala, ola
+roman, 2024-11-24 16:37:00, 470, warszawa, janusz, janusz
+roman, 2023-06-11 19:51:00, 29, lesiow, janusz, ola
+ala, 2023-12-03 19:23:00, 534, warszawa, ala, roman, janusz
+janusz, 2022-11-27 12:40:00, 272, warszawa, roman, janusz, ola
+janusz, 2024-08-19 12:50:00, 219, warszawa, janusz, 
+janusz, 2022-08-10 15:33:00, 289, gdynia, ala, janusz
+janusz, 2024-05-19 19:33:00, 575, lesiow, ala, ola
+roman, 2022-09-15 07:33:00, 253, gdynia, roman, janusz, janusz, janusz
+janusz, 2022-04-14 08:58:00, 164, gdynia, janusz, 
+janusz, 2022-09-01 14:48:00, 117, warszawa, roman, janusz, janusz, ola
+roman, 2023-08-19 08:55:00, 548, lesiow, janusz, ala, janusz, roman
+ola, 2023-05-19 18:27:00, 84, lesiow, roman, 
+janusz, 2023-04-21 17:06:00, 458, lesiow, roman, ala, roman, janusz
+ala, 2023-12-27 09:51:00, 22, warszawa, ala, 
+roman, 2022-10-11 19:05:00, 201, warszawa, ala, janusz, ola, ola
+roman, 2023-04-08 12:33:00, 18, warszawa, ala, janusz, janusz, janusz
+janusz, 2023-08-09 09:26:00, 399, lesiow, ala, 
+roman, 2022-07-14 18:43:00, 418, warszawa, janusz, janusz
+janusz, 2023-11-21 13:11:00, 169, gdynia, ola, roman, ala
+janusz, 2023-09-01 11:57:00, 272, gdynia, janusz, ola, ola
+janusz, 2022-11-05 11:05:00, 432, lesiow, ala, 
+ola, 2022-09-17 07:25:00, 325, gdynia, ola, roman
+roman, 2024-10-03 08:31:00, 474, warszawa, janusz, 
+janusz, 2023-08-12 11:26:00, 495, lesiow, roman, roman, roman, ala
+roman, 2022-11-24 09:56:00, 27, gdynia, janusz, roman, roman, janusz
+roman, 2022-11-08 16:16:00, 134, warszawa, roman, 
+roman, 2022-11-18 08:57:00, 398, lesiow, roman, 
+ola, 2022-06-16 14:37:00, 532, warszawa, janusz, roman, ala
+janusz, 2022-07-05 16:00:00, 389, gdynia, janusz, janusz, janusz, ala
+roman, 2022-06-22 15:53:00, 70, gdynia, roman, janusz, roman, ola
+ala, 2024-11-22 18:31:00, 571, lesiow, roman, 
+ala, 2024-07-13 09:59:00, 74, lesiow, janusz, ola
+roman, 2024-06-01 12:35:00, 119, warszawa, ola, roman
+ala, 2022-09-19 08:26:00, 48, warszawa, ola, roman, roman
+ola, 2024-05-27 10:58:00, 532, lesiow, roman, roman, janusz
+ala, 2023-04-02 15:29:00, 559, gdynia, ala, 
+ala, 2022-12-14 08:43:00, 300, lesiow, ala, ala
+roman, 2022-06-18 12:21:00, 466, lesiow, roman, 
+ala, 2024-12-18 12:49:00, 443, warszawa, roman, ala, ala
+roman, 2022-11-14 12:04:00, 215, warszawa, janusz, 
+janusz, 2023-09-12 18:57:00, 378, gdynia, ala, roman
+janusz, 2024-10-15 13:05:00, 158, gdynia, ola, roman, ala, janusz
+ola, 2022-09-27 15:08:00, 113, gdynia, ala, roman, roman, janusz
+roman, 2024-07-05 14:58:00, 87, gdynia, roman, 
+ola, 2022-05-07 11:09:00, 494, gdynia, ala, ala, roman
+janusz, 2024-09-05 13:47:00, 584, gdynia, janusz, janusz, janusz, janusz
+janusz, 2023-10-20 18:02:00, 237, warszawa, ola, janusz, roman
+ala, 2024-10-01 19:39:00, 547, gdynia, ala, ala, roman, ola
+ala, 2024-11-09 14:05:00, 431, warszawa, ala, ala, ola, janusz
+janusz, 2023-12-27 10:39:00, 438, lesiow, roman, 
+ala, 2023-12-09 17:21:00, 376, gdynia, ola, janusz, ola, roman
+janusz, 2023-12-10 13:18:00, 109, lesiow, janusz, janusz, janusz
+ola, 2022-09-03 07:10:00, 420, lesiow, roman, roman, roman, roman
+ala, 2023-09-17 11:34:00, 579, lesiow, ala, roman, ala, janusz
+ola, 2022-07-12 14:49:00, 165, lesiow, roman, ola, janusz
+janusz, 2022-12-02 11:31:00, 334, lesiow, ala, 
+roman, 2024-09-01 10:44:00, 138, warszawa, ola, roman
+ala, 2024-07-21 07:21:00, 91, lesiow, roman, 
+ala, 2022-11-08 19:10:00, 373, lesiow, ola, ola, ola, ola
+janusz, 2023-08-03 15:14:00, 126, warszawa, ala, ola, roman
+roman, 2023-12-19 13:44:00, 58, lesiow, janusz, 
+ola, 2022-05-05 16:16:00, 473, warszawa, ala, janusz, roman
+janusz, 2024-07-08 14:37:00, 222, gdynia, roman, 
+ola, 2022-06-22 19:30:00, 193, lesiow, ala, ola, roman, ala
+ola, 2023-11-28 10:54:00, 126, lesiow, ala, 
+roman, 2024-05-11 10:11:00, 492, warszawa, ola, ala, ola, ala
+roman, 2023-07-11 17:17:00, 21, warszawa, ala, roman
+ola, 2022-08-08 08:13:00, 41, gdynia, ala, ola, ola
+roman, 2023-04-23 11:31:00, 34, lesiow, ala, 
+roman, 2024-10-09 08:37:00, 383, warszawa, janusz, ala
+ala, 2024-09-26 09:49:00, 152, warszawa, janusz, 
+roman, 2023-12-23 15:45:00, 447, warszawa, roman, ola
+janusz, 2022-10-07 16:17:00, 239, gdynia, roman, roman, janusz
+roman, 2023-05-13 17:01:00, 111, gdynia, ola, 
+janusz, 2023-08-18 10:11:00, 395, gdynia, ola, 
+ala, 2024-09-09 15:36:00, 315, gdynia, ola, 
+ala, 2023-12-02 13:39:00, 381, lesiow, roman, janusz, janusz
+ala, 2024-10-16 16:50:00, 95, warszawa, ala, janusz, ala, ola
+ola, 2023-04-09 10:03:00, 199, gdynia, ola, 
+roman, 2024-05-28 07:57:00, 116, gdynia, janusz, 
+janusz, 2024-12-08 07:10:00, 45, lesiow, roman, 
+ola, 2023-08-26 17:27:00, 43, warszawa, ala, ala, roman, ala
+janusz, 2024-09-13 18:41:00, 459, lesiow, janusz, 
+roman, 2023-07-08 12:22:00, 56, gdynia, ala, ala, roman
+ola, 2022-09-03 16:58:00, 550, gdynia, janusz, janusz
+ola, 2023-06-13 08:27:00, 594, gdynia, ala, ala
+janusz, 2022-11-10 07:48:00, 307, gdynia, ola, janusz, ola, janusz
+janusz, 2024-07-08 09:34:00, 295, warszawa, janusz, ola, janusz
+ola, 2022-05-20 11:08:00, 521, gdynia, roman, janusz, ala
+ola, 2024-04-21 10:36:00, 139, lesiow, ola, ola, ala, ola
+ola, 2023-04-27 18:47:00, 503, lesiow, ala, 
+janusz, 2022-06-09 18:43:00, 559, gdynia, ala, 
+janusz, 2022-05-18 07:11:00, 565, lesiow, ola, janusz
+ala, 2023-09-06 10:26:00, 561, warszawa, ala, 
+janusz, 2024-05-06 14:32:00, 330, gdynia, ola, 
+janusz, 2024-04-06 14:23:00, 522, lesiow, janusz, 
+ola, 2024-07-11 11:23:00, 349, warszawa, janusz, 
+janusz, 2024-07-07 17:29:00, 89, lesiow, ala, ala, ola
+janusz, 2023-04-08 09:25:00, 472, gdynia, roman, ola, ola, ola
+roman, 2023-04-23 09:28:00, 77, gdynia, janusz, janusz
+ola, 2022-07-05 19:26:00, 327, gdynia, roman, roman, ola
+roman, 2022-07-17 15:44:00, 319, warszawa, ola, roman, roman
+roman, 2024-05-23 08:41:00, 192, gdynia, ala, ola, ala
+ala, 2022-05-07 17:06:00, 65, gdynia, ala, roman, ala, ala
+ola, 2022-12-26 11:54:00, 449, lesiow, roman, ala, janusz, roman
+janusz, 2024-06-25 07:21:00, 444, warszawa, roman, ola
+janusz, 2023-10-05 11:02:00, 241, gdynia, ala, 
+ala, 2022-04-23 13:30:00, 102, lesiow, janusz, 
+ola, 2022-04-06 09:59:00, 57, warszawa, ala, 
+ola, 2022-05-25 15:47:00, 259, lesiow, ola, roman
+ola, 2024-10-18 16:57:00, 398, gdynia, ala, roman, ola
+ola, 2024-12-15 07:29:00, 548, warszawa, ola, ala, ola
+roman, 2023-09-24 16:58:00, 17, gdynia, ola, janusz
+roman, 2024-07-11 13:05:00, 368, warszawa, janusz, ala
+roman, 2024-07-10 07:34:00, 44, lesiow, janusz, janusz, roman, roman
+janusz, 2023-05-24 07:19:00, 8, gdynia, roman, ala
+ola, 2023-05-11 15:59:00, 29, warszawa, ola, ola, ola, roman
+ola, 2024-08-21 10:06:00, 153, lesiow, ala, ala, ala
+roman, 2023-08-21 17:18:00, 590, gdynia, roman, ala
+ola, 2022-08-10 18:05:00, 317, gdynia, ola, roman, roman
+ola, 2023-11-14 18:27:00, 521, lesiow, roman, roman
+ola, 2023-10-09 07:57:00, 357, gdynia, ala, ala, ala
+ala, 2023-10-24 15:10:00, 66, gdynia, roman, ala, ola, janusz
+ala, 2022-07-23 17:00:00, 428, warszawa, ola, 
+ola, 2024-12-08 13:52:00, 149, lesiow, ala, janusz, janusz, roman
+ala, 2022-06-28 18:49:00, 478, warszawa, ala, ala, roman, roman
+roman, 2024-10-13 15:34:00, 349, gdynia, ola, ala
+janusz, 2022-09-11 10:18:00, 330, warszawa, roman, ola, ala
+janusz, 2022-09-08 07:04:00, 106, gdynia, ala, ola
+ola, 2023-11-24 16:03:00, 111, lesiow, janusz, ala, ola
+janusz, 2022-11-01 15:48:00, 233, lesiow, janusz, ola, janusz
+janusz, 2022-04-19 12:45:00, 97, warszawa, janusz, janusz, roman
+roman, 2024-06-16 14:38:00, 178, lesiow, janusz, roman
+janusz, 2024-04-25 19:35:00, 186, gdynia, ola, roman, roman, roman
+janusz, 2024-10-01 19:31:00, 104, lesiow, ola, ala, ola, roman
+ala, 2023-08-26 14:32:00, 502, lesiow, ala, roman, ola, ola
+roman, 2024-07-10 14:44:00, 135, warszawa, janusz, janusz
+roman, 2022-05-21 12:39:00, 198, gdynia, ala, janusz, roman
+roman, 2023-07-19 13:12:00, 176, lesiow, roman, janusz
+ola, 2023-04-11 09:02:00, 51, lesiow, roman, roman, janusz
+janusz, 2023-10-16 12:08:00, 439, lesiow, ala, roman
+ola, 2024-09-09 19:12:00, 264, gdynia, janusz, ala
+ola, 2022-07-23 07:29:00, 488, gdynia, roman, ola, ala
+ala, 2024-12-23 18:13:00, 53, warszawa, ala, ola, roman, roman
+ola, 2024-05-21 17:41:00, 204, gdynia, janusz, 
+janusz, 2023-08-07 13:44:00, 437, lesiow, ala, ola
+janusz, 2023-08-27 13:09:00, 490, gdynia, janusz, janusz, roman, janusz
+ola, 2023-11-01 15:40:00, 302, lesiow, roman, roman, ola
+janusz, 2024-07-26 11:53:00, 112, lesiow, ala, roman, roman, ala
+ala, 2023-07-17 17:06:00, 129, lesiow, ala, roman
+ala, 2023-06-23 16:12:00, 50, gdynia, ola, ala, janusz, ola
+janusz, 2024-11-23 15:02:00, 65, gdynia, janusz, ola, ala, ola
+ala, 2022-09-22 18:13:00, 419, warszawa, janusz, roman
+roman, 2024-11-10 13:41:00, 337, gdynia, ala, roman, janusz
+janusz, 2023-05-08 19:53:00, 369, lesiow, ala, 
+ola, 2024-09-28 15:32:00, 433, gdynia, ola, janusz, ala
+janusz, 2022-12-02 18:04:00, 111, warszawa, roman, 
+ola, 2022-06-20 13:43:00, 357, warszawa, ala, 
+ala, 2023-12-12 11:49:00, 212, gdynia, janusz, ala, janusz, janusz
+janusz, 2022-05-13 10:12:00, 34, gdynia, janusz, 
+roman, 2023-04-04 09:44:00, 530, gdynia, ola, ala, roman, ala
+roman, 2024-08-17 07:39:00, 248, warszawa, ala, ola, ola, janusz
+janusz, 2022-05-05 19:06:00, 507, gdynia, janusz, roman, ola
+janusz, 2022-05-01 14:30:00, 469, lesiow, ola, janusz, janusz
+ala, 2024-07-09 14:45:00, 507, warszawa, janusz, roman
+janusz, 2024-09-04 12:09:00, 53, gdynia, ola, 
+roman, 2022-07-05 11:03:00, 123, gdynia, janusz, janusz
+janusz, 2022-11-17 14:34:00, 189, warszawa, ola, 
+ola, 2022-09-08 08:42:00, 77, warszawa, roman, 
+roman, 2023-07-13 14:50:00, 32, warszawa, ala, ala, roman, roman
+ala, 2023-05-06 17:16:00, 256, lesiow, roman, janusz, ala, roman
+ala, 2022-07-28 15:52:00, 563, gdynia, roman, ola
+ola, 2024-10-26 14:24:00, 551, lesiow, janusz, 
+ola, 2022-09-22 11:27:00, 261, gdynia, roman, ala
+ala, 2023-06-13 19:31:00, 449, gdynia, janusz, ala
+roman, 2023-05-10 15:32:00, 310, lesiow, ola, 
+roman, 2024-05-11 07:38:00, 572, gdynia, janusz, roman, janusz
+roman, 2022-11-19 19:04:00, 39, warszawa, ala, ala, roman
+janusz, 2023-08-01 18:34:00, 64, lesiow, roman, ala, ola
+ala, 2023-10-13 17:25:00, 579, lesiow, ala, ola
+janusz, 2024-11-27 16:28:00, 588, gdynia, roman, roman
+ala, 2024-10-14 15:54:00, 245, warszawa, ola, 
+roman, 2023-12-07 13:41:00, 563, warszawa, ola, ola, ala, ola
+ala, 2023-10-03 15:10:00, 50, warszawa, janusz, ala, janusz, janusz
+ala, 2022-12-24 15:30:00, 344, warszawa, ola, janusz, ola, roman
+ola, 2024-11-08 16:19:00, 162, gdynia, janusz, ola, ala, ala
+roman, 2022-09-03 13:59:00, 423, lesiow, ala, janusz, ala
+ola, 2022-05-14 08:07:00, 71, warszawa, janusz, ola, ola
+ola, 2023-04-06 10:37:00, 32, gdynia, roman, 
+roman, 2023-08-11 08:55:00, 531, lesiow, janusz, 
+janusz, 2022-10-13 16:05:00, 237, warszawa, ola, ala, ola, roman
+janusz, 2024-05-10 17:15:00, 341, gdynia, janusz, ala
+ola, 2023-09-14 19:59:00, 484, gdynia, ola, 
+ola, 2022-04-03 15:46:00, 419, gdynia, ala, janusz, ala, roman
+ola, 2022-07-07 09:40:00, 85, warszawa, ola, 
+roman, 2024-10-28 14:52:00, 20, gdynia, ala, roman, janusz
+ala, 2023-08-05 13:23:00, 132, gdynia, roman, 
+roman, 2023-05-06 07:49:00, 354, lesiow, ola, roman, ola
+janusz, 2022-08-28 19:41:00, 584, lesiow, roman, janusz
+roman, 2022-07-26 08:17:00, 47, lesiow, ola, ola, janusz
+ala, 2023-12-24 09:00:00, 349, warszawa, ala, janusz, janusz, roman
+roman, 2022-11-18 14:40:00, 420, gdynia, janusz, 
+ola, 2022-10-07 12:03:00, 582, gdynia, ala, roman, ala
+ola, 2022-09-15 16:25:00, 173, warszawa, ala, roman
+ala, 2022-05-11 13:58:00, 474, warszawa, roman, 
+ala, 2023-09-23 13:41:00, 12, warszawa, ala, roman
+janusz, 2022-07-18 10:33:00, 240, warszawa, janusz, 
+janusz, 2024-04-13 13:50:00, 533, warszawa, ola, ala, roman, janusz
+janusz, 2023-10-10 09:58:00, 523, gdynia, ola, roman, ola, janusz
+roman, 2024-07-01 19:21:00, 38, lesiow, ala, ola, roman, ola
+ola, 2024-10-07 18:15:00, 190, warszawa, janusz, ola, ola, janusz
+ola, 2024-12-23 17:00:00, 410, gdynia, ola, janusz, ala
+ola, 2024-05-24 17:56:00, 93, lesiow, ala, 
+ola, 2023-09-13 10:49:00, 308, gdynia, janusz, janusz
+roman, 2023-05-13 19:04:00, 463, warszawa, ala, 
+janusz, 2023-09-28 15:21:00, 388, lesiow, janusz, ala, roman
+ola, 2024-09-10 10:44:00, 587, gdynia, ala, janusz, janusz
+ala, 2023-04-10 12:59:00, 477, warszawa, roman, ola
+ola, 2023-08-18 11:02:00, 82, gdynia, ola, ala
+roman, 2024-04-27 18:15:00, 581, gdynia, roman, ala
+ala, 2022-09-25 16:16:00, 31, warszawa, ola, roman
+janusz, 2024-10-06 10:51:00, 238, gdynia, ola, 
+janusz, 2023-08-02 11:35:00, 79, gdynia, janusz, ala, ala, ala
+ola, 2022-05-01 19:56:00, 572, lesiow, ola, roman, ala
+ala, 2023-11-09 07:14:00, 347, warszawa, ola, janusz, ola
+roman, 2023-06-21 14:30:00, 59, lesiow, ala, ala, roman, roman
+janusz, 2022-12-12 14:45:00, 57, lesiow, ola, ola
+ola, 2024-05-15 11:28:00, 496, warszawa, janusz, ala
+janusz, 2023-04-28 08:38:00, 528, gdynia, roman, 
+roman, 2022-07-17 18:16:00, 477, warszawa, ola, roman, ola, ola
+ola, 2023-08-05 10:52:00, 401, lesiow, ola, janusz
+janusz, 2022-10-16 09:06:00, 206, warszawa, ala, ala
+ola, 2023-06-24 11:56:00, 572, gdynia, janusz, ala
+ola, 2023-09-09 13:39:00, 268, warszawa, ala, ola, roman
+roman, 2022-06-05 18:50:00, 499, lesiow, janusz, ala, ala, ola
+ala, 2023-10-11 11:11:00, 486, gdynia, ola, janusz
+roman, 2022-11-11 14:59:00, 356, lesiow, janusz, ala
+roman, 2022-08-17 12:05:00, 353, lesiow, roman, ala
+janusz, 2023-07-18 10:43:00, 461, gdynia, ola, janusz, roman
+roman, 2024-10-10 18:40:00, 541, gdynia, ola, ala, roman, roman
+ola, 2024-06-24 13:51:00, 36, gdynia, ala, ala
+ola, 2023-11-15 13:47:00, 85, gdynia, ola, roman, roman
+janusz, 2024-04-13 10:21:00, 61, warszawa, ola, janusz, roman, janusz
+ola, 2022-05-11 13:58:00, 158, warszawa, roman, 
+ola, 2022-07-27 17:46:00, 337, warszawa, ola, roman, ola
+ola, 2023-08-11 18:32:00, 35, warszawa, janusz, 
+janusz, 2024-06-26 10:23:00, 470, gdynia, ala, 
+janusz, 2023-10-22 16:45:00, 472, lesiow, ola, roman
+ola, 2023-09-16 15:35:00, 398, gdynia, roman, ala, ala
+roman, 2022-04-17 09:08:00, 306, lesiow, roman, ala, janusz
+roman, 2023-04-17 15:32:00, 144, warszawa, roman, ala, janusz
+janusz, 2024-06-06 18:54:00, 539, lesiow, ola, janusz, roman
+janusz, 2024-06-04 09:39:00, 535, warszawa, ola, ola, janusz, roman
+janusz, 2022-07-18 08:40:00, 103, gdynia, roman, roman, ola, janusz
+roman, 2024-06-11 16:54:00, 383, lesiow, janusz, 
+roman, 2023-07-04 14:38:00, 100, gdynia, ola, janusz
+ola, 2022-06-01 18:46:00, 146, gdynia, janusz, 
+janusz, 2024-09-24 17:55:00, 227, lesiow, roman, roman, ola, ola
+roman, 2024-09-06 14:17:00, 577, warszawa, ola, roman
+ala, 2023-12-02 11:29:00, 21, gdynia, janusz, ola
+ala, 2024-12-12 11:30:00, 520, gdynia, ola, ala, ola, janusz
+roman, 2023-06-03 17:01:00, 354, lesiow, ola, ala, janusz
+roman, 2024-07-18 17:02:00, 127, lesiow, roman, janusz, ala
+janusz, 2023-09-20 17:36:00, 297, warszawa, janusz, 
+ala, 2024-06-07 19:27:00, 59, gdynia, roman, ola, janusz, ala
+roman, 2022-07-06 17:22:00, 19, gdynia, janusz, 
+ola, 2023-04-26 08:44:00, 184, warszawa, janusz, ola
+ala, 2022-10-16 10:30:00, 347, lesiow, ola, 
+ola, 2023-10-14 16:31:00, 569, gdynia, ola, ala
+ala, 2024-12-12 07:35:00, 393, warszawa, janusz, ala, roman
+ola, 2024-06-27 18:10:00, 360, gdynia, ola, ala
+janusz, 2023-10-17 16:51:00, 520, gdynia, ola, 
+janusz, 2022-12-12 17:27:00, 412, lesiow, ola, ola, ala, ola
+roman, 2022-12-24 07:10:00, 476, lesiow, janusz, ola, janusz
+ola, 2023-05-17 12:17:00, 410, lesiow, ola, 
+ala, 2023-05-22 07:52:00, 99, gdynia, ola, ala, ala
+ala, 2023-06-25 14:36:00, 168, warszawa, roman, roman, janusz

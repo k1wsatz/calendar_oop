@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 
 
-class Event:
+class Event:   # <---- syntax sugar  ----> class Event(object, metaclass=type):
     def __init__(self, name, start_time, duration, location, owner, participants=tuple()):
         self.name = name
         self.start_time = start_time

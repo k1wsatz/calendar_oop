@@ -1,36 +1,42 @@
+import os
 from datetime import datetime
+
+from data_generator.generator import Generator
 from event import Event, Workshop, Meeting
 from planner import Planner
 
 
 def main():
-    e = Event('piwko', datetime.strptime('01-03-2022 17:50', '%d-%m-%Y %H:%M'), 6, 'better world', 'mikolaj',
-              ['bodzio', 'seba', 'tomek'])
-    w = Workshop('python', datetime.strptime('01-03-2022 17:15', '%d-%m-%Y %H:%M'), 60, 'better world', 'mikolaj',
-                 ['bodzio', 'seba', 'tomek'], 'online')
-    m = Meeting('piwko', datetime.strptime('01-03-2022 17:15', '%d-%m-%Y %H:%M'), 60, 'better world', 'mikolaj',
-                ['bodzio', 'seba', 'tomek'], 'arctovsky')
-    e.start_time = datetime.strptime('01-03-2022 17:50', '%d-%m-%Y %H:%M')
-    print(repr(w))
-    # planner = Planner([])
-    # print(repr(planner))
-    print(w.duration)
-    print(w.start_time)
-    print(w.end_of_meeting())
-    print(w.end_of_meeting() - w.start_time)
+    data = Generator.load_data(os.path.join('data_generator', 'data.txt'))
+    event_list = []
+
+    for item in data:
+        element_list = []
+        participant_list = []
+        for idx, element in enumerate(item.split(', ')):
+            if element.isdigit():
+                element_list.append(int(element))
+                continue
+
+            try:
+                dt = datetime.strptime(element, '%Y-%m-%d %H:%M:%S')
+                element_list.append(dt)
+                continue
+            except Exception as err:
+                pass
+
+            if idx >= 5:
+                participant_list.append(element)
+                continue
+
+            element_list.append(element)
+
+        element_list.append(participant_list)
+        event_list.append(Event(*element_list))
+
+    planner = Planner(event_list)
+    print(repr(planner))
 
 
 if __name__ == '__main__':
     main()
-
-# check_dt = e.check_date(datetime.strptime('01-03-2022 11:40', '%d-%m-%Y %H:%M'))
-# print(check_dt)
-# def check_event(event):
-#     if not isinstance(event, Meeting):
-#         raise TypeError(f'{event} is not real event')
-#
-#     return event.__dict__
-
-
-# result = check_event(e)
-# print(result)
